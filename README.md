@@ -1,8 +1,8 @@
 # sweet-routing-master-2
-sweet-routing
-Version: 1.0
-Author: DIGANTO HD
-Developed by Merazul Mustakim Diganto
+#sweet-routing
+#Version: 1.0
+#Author: DIGANTO HD
+#Developed by Merazul Mustakim Diganto
 
 This is a sweetest, easiest and effective routing system for any kind of PHP project. Really helpful for new comer and those who love to know everything from it's birth.
 
